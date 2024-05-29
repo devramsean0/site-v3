@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .homeCard {
+        @apply text-center text-white z-10 relative;
+        
+    }
+}

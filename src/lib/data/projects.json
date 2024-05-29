@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "name":"Sportsday Scoreboard",
+            "description":"A Scoreboard for my School's sports day",
+            "github":"UTCSheffield/SportsDay-Scoreboard",
+            "online":true,
+            "oss": true,
+            "url": "https://sportsday-scoreboard-production.up.railway.app/scoreboard",
+            "screenshotPath": "sportsday-scoreboard.png",
+            "tags":[
+                "ruby_on_rails"
+            ]
+        },
+        {
+            "name":"IkeaStock",
+            "description":"A more indepth Stock Checker for Ikea's website",
+            "github": "IKEAStock/website",
+            "online": false,
+            "oss": true,
+            "url":"https://ikeastock.app",
+            "screenshotPath":"ikeastock.png",
+            "tags":[
+                "next"
+            ]
+        },
+        {
+            "name":"OnHCB.info",
+            "description":"A simplified UI for HCB's transparency mode",
+            "github":"devramsean0/onhcb.info",
+            "screenshotPath":"onhcb.png",
+            "online": true,
+            "oss":true,
+            "url":"https://onhcb.info",
+            "tags":[
+                "next"
+            ]
+        }
+    ],
+    "tags": {
+        "next": {
+            "color":"#10b981",
+            "friendlyName":"Next.js"
+        },
+        "ruby_on_rails": {
+            "color":"#dc2626",
+            "friendlyName":"Ruby On Rails"
+        },
+        "tailwind": {
+            "color":"#38bdf8",
+            "friendlyName":"Tailwind"
+        }
+    }
+}
